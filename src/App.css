@@ -197,7 +197,7 @@
 }
 
 .titleInicio{
-  background-color: #6A67CE;
+  background-color: var(--color1);
   color: rgb(255, 255, 255);
 }
 
