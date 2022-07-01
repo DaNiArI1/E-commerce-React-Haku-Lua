@@ -81,7 +81,7 @@ export default function Checkout() {
                 <div className='col1 cardUser'>
 
                     <h4 className='titleT'>Gracias por tu compra</h4>
-                    <h5 className='titleT'>Tu orden esta siendo procesada, te notificaremos via email para brindarte mas detalles.</h5>
+                    <h5 className='titleT'>Tu orden esta siendo procesada, te notificaremos via mail para brindarte mas detalles.</h5>
                     <div className='spaceBet lineCart'>
                         <b className='textCheckout'>Tu codigo de seguimiento es:</b> <b className='textCheckout'>{idCompra}</b>
                     </div>

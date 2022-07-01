@@ -32,13 +32,13 @@ function NavBar() {
                                     <Link to="/category/accesorios" className="dropdown-item">Accesorios</Link>
                                 </li>
                                 <li>
-                                    <Link to="/category/pijamas" className="dropdown-item">Pijamas</Link>
+                                    <Link to="/category/placas" className="dropdown-item">Placas de video</Link>
                                 </li>
                                 <li>
-                                    <Link to="/category/papeleria" className="dropdown-item">Papelería</Link>
+                                    <Link to="/category/htc" className="dropdown-item">HTC</Link>
                                 </li>
                                 <li>
-                                    <Link to="/category/regalos" className="dropdown-item">Regalos</Link>
+                                    <Link to="/category/windows" className="dropdown-item">Windows</Link>
                                 </li>
                                 <li>
                                     <hr className="dropdown-divider" />
@@ -48,9 +48,9 @@ function NavBar() {
                                 </li>
                             </ul>
                         </li>
-                        <Link to="/nosotros/" className="nav-link">Nosotros</Link>
+                        <Link to="/nosotros/" className="nav-link">Sobre Nosotros</Link>
 
-                        <Link to="/contactanos/" className="nav-link">Contactanos</Link>
+                        <Link to="/contactanos/" className="nav-link">Contacto</Link>
                     </ul>
                 </div>
                 <CartWidget/>

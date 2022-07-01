@@ -19,12 +19,12 @@ import { initializeApp } from "firebase/app";
 function App() {
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBkTWN_dSehoqw9ecJSNzSdwNObUnqB-U8",
-    authDomain: "hakunix-7cae6.firebaseapp.com",
-    projectId: "hakunix-7cae6",
-    storageBucket: "hakunix-7cae6.appspot.com",
-    messagingSenderId: "967355188213",
-    appId: "1:967355188213:web:92aacc4bcd759ff34cd6bc"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
   initializeApp(firebaseConfig);
