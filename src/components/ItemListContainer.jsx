@@ -13,7 +13,7 @@ export default function ItemListContainer() {
     const {id} = useParams()
 
     //firebase
-    const coleccion = "items"
+    const coleccion = "productos"
     const db = getFirestore()
 
     const coleccionDeProductos = collection(db, coleccion)
