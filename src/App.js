@@ -19,12 +19,12 @@ import { initializeApp } from "firebase/app";
 function App() {
 
   const firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
+    apiKey: "AIzaSyCNWtsbg41_vxjxqHMwbbJ8FMH69I266_Q",
+    authDomain: "carrito-react-coder.firebaseapp.com",
+    projectId: "carrito-react-coder",
+    storageBucket: "carrito-react-coder.appspot.com",
+    messagingSenderId: "454323080605",
+    appId: "1:454323080605:web:247323267edc1c6e1e3374"
   };
 
   initializeApp(firebaseConfig);
