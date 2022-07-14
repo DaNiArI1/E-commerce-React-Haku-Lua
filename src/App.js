@@ -16,6 +16,17 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 
+function App() {
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyC0wQFauf0yubxrKcUHlA8JnwufruNTOSY",
+    authDomain: "coderhouse-react-carrito.firebaseapp.com",
+    projectId: "coderhouse-react-carrito",
+    storageBucket: "coderhouse-react-carrito.appspot.com",
+    messagingSenderId: "724854637147",
+    appId: "1:724854637147:web:707f9d0cc95881815cf57e"
+  };
+
   initializeApp(firebaseConfig);
 
   return (
@@ -43,7 +54,7 @@ import { initializeApp } from "firebase/app";
     </div>  
 
   );
-
+}
 
 
 export default App;
