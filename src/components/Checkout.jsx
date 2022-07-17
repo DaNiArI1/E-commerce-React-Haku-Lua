@@ -96,7 +96,7 @@ export default function Checkout() {
                         <p>Nº de Whatsapp: <b>{cel}</b></p>
                     </div>
 
-                    <h6 className='titleT'>Nos pondremos en contacto para coordinar la entrega del producto.. Gracias por confiar en Hakunix.</h6>
+                    <h6 className='titleT'>Nos pondremos en contacto para coordinar la entrega del producto.. Gracias por confiar en Lua.</h6>
                 </div>
                 :
                 <>
