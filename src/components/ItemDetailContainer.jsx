@@ -11,7 +11,7 @@ export default function ItemDetailContainer() {
     const {itemId } = useParams()
 
     //Firestore
-    const coleccion = 'items'
+    const coleccion = 'productos'
     const db = getFirestore()
     const detalleProducto = doc(db, coleccion, itemId)
 
