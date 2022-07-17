@@ -7,7 +7,7 @@ export default function Footer() {
                 <img src={logo} className="Logo navbar-brand imgFooter" width="135px" />
                 <p className='detalleFooter'>Sitio de Compras Gamer</p>
                 <div className='lineFooter'>
-                    <p className='extraFooter'>Ecommerce - CorderHouse</p>
+                    <p className='extraFooter'>Ecommerce</p>
                 </div>
                 <div className='iconsFooter'>
                     <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" fill="currentColor" className="bi bi-github iconFoot" viewBox="0 0 16 16">
