@@ -1,4 +1,4 @@
-Eccomerce Gamer
+E-commerce Gamer
 
 Datos
 
@@ -19,28 +19,25 @@ Herramientas utilizadas
 
 Tecnologías
 
-HTML5
+*HTML5
 
-CSS3
+*CSS3
 
-JavaScript
+*JavaScript
+
 
 Librerías y frameworks
 
-Node.js
+*Node.js
 
-React
+*React
 
-Base de datos
-Firestore
 
-Gestor de paquetes
+Base de datos: Firestore
 
-npm
+Gestor de paquetes: npm
 
-Control de versiones
-
-git
+Control de versiones: git
 
 En el directorio del proyecto se debe ingresar en la consola:
 npm start
