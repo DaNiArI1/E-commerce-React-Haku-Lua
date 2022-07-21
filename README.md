@@ -6,6 +6,8 @@ Profesor: Horacio Alfredo Gutierrez Estevez
 Hecho por: Daniel Arigüel
 Proyecto final: https://daniari1.github.io/carrito-react/
 
+Video mostrando el proyecto: https://youtu.be/y-o6g2uDYW4
+
 
 Herramientas utilizadas
 Tecnologías
